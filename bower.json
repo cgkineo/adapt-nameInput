@@ -1,0 +1,15 @@
+{
+  "name": "adapt-name-input",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cgkineo/adapt-name-input",
+  "authors": [
+    "Thomas Taylor <thomas.taylor@kineo.com>"
+  ],
+  "description": "A popup that allows the learner to enter their name",
+  "main": "/js/adapt-name-input.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3"
+}

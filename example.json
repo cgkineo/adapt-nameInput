@@ -1,0 +1,6 @@
+"_name-input": {
+	"_isShowOnInitialize": false,
+	"title": "Welcome",
+	"body": "This will allow you to print a personalised certificate once you have completed the e-learning.<br/><br/>Don't worry, we won't store your details and they won't be shared with any third party.",
+	"input-label": "Enter your name and select SUBMIT"
+}
